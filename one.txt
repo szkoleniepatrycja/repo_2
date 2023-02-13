@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 f3
+=======
+f4
+>>>>>>> d267f02 (Dodanie f4 do one.txt)
